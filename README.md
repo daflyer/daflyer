@@ -1,6 +1,6 @@
 <p align="center">  <strong> Hello there; My name is Habib 👋🏾.  Pronouns: He/him 😊 </strong> </p>
 
-<p align="center"> [![Linkedin Badge](https://img.shields.io/badge/-iambolajiayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajao-habib-ayodele/)](https://www.linkedin.com/in/ajao-habib-ayodele/) [![Twitter Badge](https://img.shields.io/badge/-@ayodaflyer-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ayodaflyer)](https://twitter.com/ayodaflyer) </p>
+align="center"> [![Linkedin Badge](https://img.shields.io/badge/-iambolajiayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajao-habib-ayodele/)](https://www.linkedin.com/in/ajao-habib-ayodele/) [![Twitter Badge](https://img.shields.io/badge/-@ayodaflyer-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ayodaflyer)](https://twitter.com/ayodaflyer)
 
 <p align="center"> A trained Cloud Engineer, currently working as Techincal Support specialist at Reloadly and striving to Move into Cloud Industry full time. </p>
 
