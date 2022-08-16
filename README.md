@@ -1,5 +1,6 @@
-<p align="center">  <strong> Hello there; My name is Habib 👋🏾.  Pronouns: He/him 😊 </strong> </p>
+<p align="center">  <strong> Hello there; My name is Habib 👋🏾.</strong> </p>
 
+<p align="center"> <strong> Pronouns: He/him 😊 </strong> </p>
 
 <div id="badges" align="center">
   <a target="_blank" href="https://www.linkedin.com/in/ajao-habib-ayodele/">
